@@ -103,4 +103,4 @@ Bears are the at the door, did you leave the garbage out?
 
 Now try to construct the Russian sentences! 
 student input:
-did you see a raven in the morning, flying above our garden
+did you see the raven this morning, They were looking at our garden.
